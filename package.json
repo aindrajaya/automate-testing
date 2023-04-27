@@ -1,0 +1,18 @@
+{
+  "name": "automate-testing",
+  "version": "1.0.0",
+  "description": "Automate testing using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "A Indrajaya <me@aindrajaya.my.id> (https://aindrajaya.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "devDependencies": {
+    "cypress": "12.11.0"
+  }
+}
